@@ -9,6 +9,6 @@ i also do some work with python and C++
 # My Social Media
 <a href="https://x.com/flashiez_">my twitter!</a><br>
 <a href="https://www.youtube.com/@flashiezs">my youtube!</a><br>
-<a href="https://x.com/flashiez_">my website!</a>
+<a href="https://flashie.neocities.org">my website!</a>
 
 
