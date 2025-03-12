@@ -7,8 +7,8 @@ i also do some work with python and C++
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,git,github,html,js)](https://skillicons.dev)
 
 # My Social Media
-<a href="https://x.com/flashiez_">my twitter!</a>
-<a href="https://www.youtube.com/@flashiezs">my youtube!</a>
+<a href="https://x.com/flashiez_">my twitter!</a><br>
+<a href="https://www.youtube.com/@flashiezs">my youtube!</a><br>
 <a href="https://x.com/flashiez_">my website!</a>
 
 
